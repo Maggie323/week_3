@@ -1,0 +1,105 @@
+  <style>
+    /* This is a CSS comment 
+    extra comment space 
+    */
+    
+    /*
+    body {
+      background-color:aqua
+    } 
+    
+    
+    header h1 {
+      color:purple;
+    }
+    
+    h1 {
+      color:red;
+    }  
+      
+    img {
+      width:60%;
+      height:auto;
+    }
+    nav {
+      background-color: bisque;
+    }
+    
+    #main {
+      color:gray;
+    }
+    .highlight {
+      color:yellow;
+    }
+    
+    .highlight p{
+      background-color:green;
+    }
+  
+    
+    aside.highlight {
+       background-color:green;
+    }
+     
+    p {
+      color:green;
+    }
+    
+    a {
+      text-decoration:line-through;
+    }
+     
+    nav a:hover {
+      text-decoration:underline;
+      font-size:1.5em;
+    }
+    
+    p::first-letter {
+      font-size:2em;
+      color:firebrick;
+    }
+    */
+    
+   /*The below is what I did during the practice session*/
+    h1 {
+      color:magenta;
+    }
+    a {
+      text-decoration:none;
+    }
+    header {
+      width:auto;
+        height:auto;
+    }
+    nav p::first-letter {
+      font-size: 20em;
+    }
+    /* The below is what we did after the practice session was over */
+    
+    a:visited {
+      text-decoration-line: none;
+      
+    }
+     header {
+      width:75%;
+      margin:auto;
+       background-color: beige;
+    }
+    
+    article{
+      width:50%;
+      margin:auto;
+      background-color: green;
+      color:white;
+    }
+    
+    footer {
+      border:1px solid red;
+      
+      border-width: 1px;
+      border-style: dotted;
+      border-color: red;
+    }
+    
+    
+  </style>
